@@ -1,0 +1,5 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+terraform-provider-docker_v3.6.2.exe
